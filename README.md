@@ -1,2 +1,4 @@
-# probability-projects
-Simulations in Python: Kelly criterion and p-hacking
+# Probability Projects
+Small simulation projects in Python (numpy, pandas).
+
+- [Kelly criterion simulator](kelly_simulation.ipynb)
